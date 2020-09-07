@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Gatsby JS.
 - 💬 Ask me about CSS, Javscript or any tech related stuff.
 - 📫 How to reach me: [Twitter - @MadeByM1KE](https://twitter.com/MadeByM1KE)<br/>
-[LinkedIn - @Michael Akintomo](https://www.linkedin.com/in/michael-akintomo-525844141/)
+[LinkedIn - @Michael Akintomo](https://www.linkedin.com/in/michael-akintomo/)
 - ⚡ Fun fact: My Top 3 favourite TV-Shows in no particular order are; Game of Thrones, Breaking Bad and Prison Break.
 <br/>
 
