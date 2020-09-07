@@ -42,4 +42,4 @@
 
 [twitter]: https://twitter.com/MadeByM1KE
 [instagram]: https://instagram.com/MadeByM1KE
-[linkedin]: https://linkedin.com/in/MichaelAkintomo
+[linkedin]: https://linkedin.com/in/Michael-Akintomo
