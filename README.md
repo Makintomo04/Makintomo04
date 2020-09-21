@@ -1,6 +1,6 @@
 ### Hey, Im Michael👋
 
-- 🔭 I’m currently working on my portfolio site.
+- 🔭 I’m currently working on a COVID19 Tracker application using React.
 - 🌱 I’m currently learning React JS & Gatsby JS.
 - 🤔 I’m looking for help with Gatsby JS.
 - 💬 Ask me about CSS, Javscript or any tech related stuff.
