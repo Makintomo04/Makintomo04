@@ -1,8 +1,8 @@
 ### Hey, Im Michael👋
 
-- 🔭 I’m currently working on a COVID19 Tracker application using React.
-- 🌱 I’m currently learning React JS & Gatsby JS.
-- 🤔 I’m looking for help with Gatsby JS.
+- 🔭 I’m currently working on an ecommerce site.
+- 🌱 I’m currently learning the MERN stack.
+- 🤔 I’m looking for help with the MERN stack.
 - 💬 Ask me about CSS, Javscript or any tech related stuff.
 - 📫 How to reach me: [Twitter - @MadeByM1KE](https://twitter.com/MadeByM1KE)<br/>
 [LinkedIn - @Michael Akintomo](https://www.linkedin.com/in/michael-akintomo/)
