@@ -38,7 +38,7 @@
 <br/>
 <br/>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=makintomo04&hide=issues,contribs&&show_icons=true&title_color=ff0000&icon_color=ff0000">
+<img src="https://github-readme-stats.vercel.app/api?username=makintomo04&hide=issues&&show_icons=true&title_color=ff0000&icon_color=ff0000">
 
 [website]: https://www.michaelakintomo.com/
 [twitter]: https://twitter.com/MadeByM1KE
