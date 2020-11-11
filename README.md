@@ -1,6 +1,6 @@
 ### Hey, Im Michael👋
 
-- 🔭 I’m currently working on an ecommerce site.
+- 🔭 I’m currently working on a Gatsby site.
 - 🌱 I’m currently learning the MERN stack.
 - 🤔 I’m looking for help with the MERN stack.
 - 💬 Ask me about CSS, Javscript, ReactJS or any tech related stuff.
