@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning the MERN stack.
 - 🤔 I’m looking for help with the MERN stack.
 - 💬 Ask me about CSS, Javscript, ReactJS or any tech related stuff.
-- 📫 How to reach me: [Twitter - @MadeByM1KE](https://twitter.com/MadeByM1KE)<br/>
+- 📫 How to reach me: [Twitter - @CodeByM1KE](https://twitter.com/CodeByM1KE)<br/>
 [LinkedIn - @Michael Akintomo](https://www.linkedin.com/in/michael-akintomo/)
 - ⚡ Fun fact: My Top 3 favourite TV-Shows in no particular order are; Game of Thrones, Breaking Bad and Prison Break.
 <br/>
@@ -12,7 +12,7 @@
 ### Connect with me:
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MadeByM1KE | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mihael Akintomo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Michael Akintomo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MadeByM1KE | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
@@ -42,6 +42,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=makintomo04&hide=issues&&show_icons=true&title_color=ff0000&icon_color=ff0000">
 
 [website]: https://www.michaelakintomo.com/
-[twitter]: https://twitter.com/MadeByM1KE
+[twitter]: https://twitter.com/CodeByM1KE
 [instagram]: https://instagram.com/MadeByM1KE
 [linkedin]: https://linkedin.com/in/Michael-Akintomo
