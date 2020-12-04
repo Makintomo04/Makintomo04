@@ -1,9 +1,9 @@
 ### Hey, Im Michael👋
 
-- 🔭 I’m currently working on mastering GSAP animations.
+- 🔭 I’m currently working on mastering GSAP & CSS animations.
 - 🌱 I’m currently learning the MERN stack.
 - 🤔 I’m looking for help with the MERN stack.
-- 💬 Ask me about CSS, Javscript, ReactJS or any tech related stuff.
+- 💬 Ask me about CSS, Javscript, ReactJS, GSAP or any tech related stuff.
 - 📫 How to reach me: [Twitter - @CodeByM1KE](https://twitter.com/CodeByM1KE)<br/>
 [LinkedIn - @Michael Akintomo](https://www.linkedin.com/in/michael-akintomo/)
 - ⚡ Fun fact: My Top 3 favourite TV-Shows in no particular order are; Game of Thrones, Breaking Bad and Prison Break.
